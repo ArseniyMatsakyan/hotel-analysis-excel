@@ -83,7 +83,7 @@
 ![Сводные таблицы](screenshots/pivot_tables.png)
 
 ### Исходные данные с формулами (ВПР и т.д)
-![Таблица с данными](screenshots/data_table.png)
+![Таблица с данными](screenshots/datе_table.png)
 
 ## Автор
 **Арсений Мацакян**
